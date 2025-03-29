@@ -16,8 +16,8 @@ A Flutter-based memory card matching game where players flip cards to find pairs
 - **Provider** (State Management)  
 - **SharedPreferences** (Local Storage)
 
-  ### Installation  
-1. **Clone the repository**:  
+## Local Setup
+1. **Clone the repository**:
    ```bash
-  git clone https://github.com/Shereena2000/Memory-Check-App.git
-  cd flip-cards
+   git clone https://github.com/Shereena2000/Memory-Check-App.git
+   cd Memory-Check-App
